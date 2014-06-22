@@ -4,6 +4,13 @@ The aim of this repo is to simply have a repo with that configuration that you u
 
 With it ParsleyJs and Twitter Bootstrap will work fine together.
 
+
+##Install with bower
+
+bower install parsleyjs-bootstrap3 -S
+
+
 ##About
+
 The original snippet:
 https://gist.github.com/askehansen/11253752
